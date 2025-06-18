@@ -1,0 +1,30 @@
+h1{
+    color: green;
+    font-family:sans-serif;
+}
+p{
+    color: rgb(14, 12, 11);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#menu-bar a{
+    text-decoration: none;
+    background-color: aquamarine;
+    font-family:Helvetica, sans-serif;
+    padding: 5px;
+
+}
+
+#menu-bar a:hover{
+    background-color: aqua;
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: upper-roman;
+    color: blue;
+}
+
+OL {
+    list-style-image: url(pointer-icon.png);
+}
+
